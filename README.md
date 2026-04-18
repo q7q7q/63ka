@@ -9,6 +9,13 @@ The pcb's appearance is always the timer's seconds, rounded up. (if theres 4 min
 When you want to add/remove an amount, press buttons to update the binary number left on timer. 
 When the timer reaches zero, it produces a calm frequency 8 times. 
 
+## HOW I BUILT IT
+Because I was new to building schematics/PCB's, I had to research a lot. 
+For my microcontroller I used the RP2040 tiny. (because there are not many inputs I need to plug in)
+<img width="609" height="345" alt="Screenshot 2026-04-17 at 10 40 19 PM" src="https://github.com/user-attachments/assets/5e36c4a4-3ff0-4af6-8155-916e7d5639be" />
+finished schmeatic design
+
+
 
 <img width="1094" height="597" alt="Screenshot 2026-04-17 at 9 25 36 PM" src="https://github.com/user-attachments/assets/e5496766-e00b-4f18-adfc-abee85c88d58" />
 
