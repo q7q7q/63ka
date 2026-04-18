@@ -1,3 +1,4 @@
+<img width="1410" height="2000" alt="63ka (1)" src="https://github.com/user-attachments/assets/6ea949be-72ab-41bc-bfe4-f03b79cc1f97" />
 # 63ka
 With the power of exponents, 63ka can let you can set a timer of any integer (that is positive ofc) from 1~63 minutes!
 I decided to make this project first to help me understand about PCB circuit boards better.
